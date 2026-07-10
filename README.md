@@ -11,6 +11,11 @@ This is where you report problems and suggest improvements for **SplitoMat** —
 
 The fastest way to file a bug is from inside the app: **Settings → Help & feedback → Report a bug** — it pre-fills your app version and device so we can reproduce it quickly.
 
+## How SplitoMat compares
+
+Coming from Splitwise, Tricount, Settle Up, Splid or Kittysplit? See the honest
+side-by-side: **[SplitoMat vs other bill-splitting apps](COMPARISON.md)**.
+
 ## Please note
 
 Issues and discussions here are **public**. Don't post sensitive information — full names, email addresses, amounts, or receipt photos. For anything private, use the email above.
