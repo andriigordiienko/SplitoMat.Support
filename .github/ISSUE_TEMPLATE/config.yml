@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Private support (account, data, payments)
+    url: mailto:splitomate@gmail.com
+    about: For anything you don't want to post publicly — account deletion, personal data (GDPR), or payment issues. This reaches us by email.
+  - name: 💬 Questions & ideas (Discussions)
+    url: https://github.com/andriigordiienko/SplitoMat.Support/discussions
+    about: Ask a question or float an idea before opening a formal request.
+  - name: 🔐 Privacy Policy
+    url: https://andriigordiienko.github.io/SplitoMat.website/privacy.html
+    about: How SplitoMat handles your data.

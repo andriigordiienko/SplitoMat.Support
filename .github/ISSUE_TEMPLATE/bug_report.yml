@@ -1,0 +1,53 @@
+name: 🐞 Bug report
+description: Something in SplitoMat isn't working as expected.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve SplitoMat! ⚠️ Issues here are **public** — please don't include sensitive info (full names, emails, amounts, receipts).
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What went wrong, and what did you expect to happen instead?
+      placeholder: When I tap Save on a new expense, the app…
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The exact steps so we can see it too.
+      placeholder: |
+        1. Open a group
+        2. Add an expense and split by shares
+        3. Tap Save
+        4. …
+    validations:
+      required: false
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Roughly where in the app does this happen?
+      options:
+        - Expenses / splitting
+        - Balances / settle up
+        - Groups / participants
+        - Sync / offline
+        - Notifications
+        - Widgets / Watch / Siri
+        - Export / data
+        - Other
+    validations:
+      required: false
+  - type: input
+    id: environment
+    attributes:
+      label: App version & device
+      description: Auto-filled when you open this from the app. Leave it as is.
+      placeholder: "SplitoMat 1.0.6 (37) · iPhone15,2 · iOS 18.5 · lang: en · en_DE"
+    validations:
+      required: false

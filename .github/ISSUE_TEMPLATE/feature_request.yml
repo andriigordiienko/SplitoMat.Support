@@ -1,0 +1,24 @@
+name: 💡 Feature request
+description: Suggest an improvement or a new capability.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have a look at existing requests first — if yours is there, a 👍 helps us prioritise. Otherwise, tell us about it below.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: What are you trying to do that's hard or impossible in SplitoMat today?
+      placeholder: When we travel, I want to split costs by income, not evenly…
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: How might it work? A rough sketch is fine.
+    validations:
+      required: false
