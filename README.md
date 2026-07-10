@@ -11,6 +11,11 @@ This is where you report problems and suggest improvements for **SplitoMat** —
 
 The fastest way to file a bug is from inside the app: **Settings → Help & feedback → Report a bug** — it pre-fills your app version and device so we can reproduce it quickly.
 
+## Coming from Splitwise?
+
+Bring your whole history across in two minutes — we rebuild every expense so your
+balances match to the cent: **[Switch from Splitwise in 2 minutes](SWITCH-FROM-SPLITWISE.md)**.
+
 ## How SplitoMat compares
 
 Coming from Splitwise, Tricount, Settle Up, Splid or Kittysplit? See the honest
