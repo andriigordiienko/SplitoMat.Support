@@ -16,6 +16,12 @@ The fastest way to file a bug is from inside the app: **Settings → Help & feed
 Bring your whole history across in two minutes — we rebuild every expense so your
 balances match to the cent: **[Switch from Splitwise in 2 minutes](SWITCH-FROM-SPLITWISE.md)**.
 
+## Sharing rent with unequal incomes?
+
+Split rent, utilities and internet **proportionally to income** — set it once
+and every bill (including recurring ones) splits itself:
+**[Split rent fairly by income](SPLIT-RENT-BY-INCOME.md)**.
+
 ## How SplitoMat compares
 
 Coming from Splitwise, Tricount, Settle Up, Splid or Kittysplit? See the honest
